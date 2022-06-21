@@ -1,3 +1,5 @@
+package Lesson9;
+
 public class Link {
     String data;
     Link next;

@@ -1,3 +1,5 @@
+package Lesson9;
+
 public interface CustomCollection {
     boolean add(String str);
 

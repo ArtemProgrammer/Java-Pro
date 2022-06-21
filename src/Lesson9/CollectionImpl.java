@@ -1,3 +1,5 @@
+package Lesson9;
+
 public class CollectionImpl implements CustomCollection{
     private Link first;
     private Link last;
