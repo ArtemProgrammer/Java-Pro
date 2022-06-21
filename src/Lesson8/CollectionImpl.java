@@ -105,6 +105,7 @@ public class CollectionImpl implements Collection {
         return false;
     }
 
+    //iterator
     public Iterator<String> iterator() {
 
         return new Iterator<>() {
