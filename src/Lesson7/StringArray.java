@@ -1,3 +1,4 @@
+package Lesson7;
 public class StringArray {
     private int capacity = 10;
     private int length = 0;

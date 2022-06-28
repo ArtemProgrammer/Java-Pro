@@ -1,3 +1,4 @@
+package Lesson5;
 public class Student {
     private int id;
     private String lastName;

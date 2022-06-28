@@ -1,3 +1,4 @@
+package Lesson5;
 public class StudentMethods {
     //Вывод по факультету
     public static void checkFaculty(Student[] students, String faculty) {

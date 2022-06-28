@@ -1,4 +1,4 @@
-import java.util.Objects;
+package Lesson6;
 
 public class Subscriber {
     private int id;
@@ -128,7 +128,7 @@ public class Subscriber {
 
     @Override
     public String toString() {
-        return "Subscriber{" +
+        return "Lesson6a.Subscriber{" +
                 "id=" + id +
                 ", lastName='" + lastName + '\'' +
                 ", firstName='" + firstName + '\'' +

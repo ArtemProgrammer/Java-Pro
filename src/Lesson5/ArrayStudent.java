@@ -1,3 +1,4 @@
+package Lesson5;
 public class ArrayStudent {
     public static Student[] students = new Student[10];
     static Student Artem = new Student(1, "Lushnya", "Artem", "Victorovich", 1999,

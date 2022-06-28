@@ -1,3 +1,5 @@
+package Lesson6;
+
 public interface SubscriberService {
     void checkCityTalkTime(Subscriber[] subscribers, int cityTalkTime);
     void checkLongDistanceCallTime(Subscriber[] subscribers);

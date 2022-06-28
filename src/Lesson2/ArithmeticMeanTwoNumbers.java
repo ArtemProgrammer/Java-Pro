@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package Lesson2;
 
+import java.util.Scanner;
 public class ArithmeticMeanTwoNumbers {
     public static int counter = 0;
 

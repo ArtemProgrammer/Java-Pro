@@ -1,3 +1,5 @@
+package Lesson6;
+
 public class SubscriberArray {
     public static Subscriber[] subscribers = new Subscriber[15];
     private static final Subscriber Artem = new Subscriber(1, "Lushnya", "Artem", "Victorovich",

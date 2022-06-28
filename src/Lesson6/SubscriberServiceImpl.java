@@ -1,3 +1,5 @@
+package Lesson6;
+
 public class SubscriberServiceImpl implements SubscriberService {
     //Сведения об абонентах, у которых время внутригородских разговоров превышает заданное:
     @Override
