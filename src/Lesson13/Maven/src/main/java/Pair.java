@@ -2,20 +2,19 @@ import java.util.Locale;
 
 public class Pair {
     private final String value;
+    private String upperValue;
 
-    public Pair(String value) {
+    public Pair(String value, String upperValue) {
         this.value = value;
+        this.upperValue = upperValue;
     }
 
-    private String toUpper() {
-        return value.toUpperCase();
-    }
 
     @Override
     public String toString() {
         return "Pair{" +
                 value + ":" +
-                toUpper() +
+                upperValue +
                 '}';
     }
 }
