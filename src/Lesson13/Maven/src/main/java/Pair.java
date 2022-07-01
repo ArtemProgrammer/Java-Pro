@@ -10,7 +10,6 @@ public class Pair {
     private String toUpper() {
         return value.toUpperCase();
     }
-
     @Override
     public String toString() {
         return "Pair{" +
