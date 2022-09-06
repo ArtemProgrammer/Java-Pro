@@ -1,0 +1,5 @@
+2022-09-06 20:03:54,191 [INFO ] [io-8080-exec-1] - Endpoint /create  Cache name: "Artem"
+2022-09-06 20:04:42,950 [INFO ] [io-8080-exec-5] - Endpoint /put  Cache name: "Iphone" "1" "ster"
+2022-09-06 20:05:02,643 [INFO ] [io-8080-exec-4] - Endpoint /put  Cache name: "Artem" "1" "ster"
+2022-09-06 20:05:19,563 [INFO ] [io-8080-exec-6] - Endpoint /get  Cache name: "Artem" "1"
+2022-09-06 20:05:19,563 [INFO ] [io-8080-exec-6] - Get value from inner Cache with name : '"1"'
